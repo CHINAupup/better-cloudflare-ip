@@ -1,4 +1,4 @@
-转自：github.com/badafans/better-cloudflare-ip
+# 转自：https://github.com/badafans/better-cloudflare-ip
 
 说明：配合安卓端Termux优选IP，查找适合自己当前网络环境的优选cloudflare anycast IP
 
